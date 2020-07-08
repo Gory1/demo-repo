@@ -1,4 +1,4 @@
 # Git and GitHub Crash Course
 
-## Sub-Heading 
-Description of this project.
+## Sub-Heading Goes Here
+A brief description of this project.
